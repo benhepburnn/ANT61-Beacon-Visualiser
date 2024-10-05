@@ -2,7 +2,7 @@
 
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls } from '@react-three/drei';
-import Beacon from '@/app/components/Beacon';
+import Beacon from '@/components/Beacon';
 
 export default function ThreePointVis() {
   return (

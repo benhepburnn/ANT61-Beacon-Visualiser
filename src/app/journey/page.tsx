@@ -1,4 +1,4 @@
-import ThreePointVis from '@/app/components/ThreePointVis';
+import ThreePointVis from '@/components/ThreePointVis';
 
 export default function Journey() {
   return (
