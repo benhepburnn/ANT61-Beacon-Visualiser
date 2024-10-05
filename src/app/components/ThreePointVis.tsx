@@ -1,6 +1,6 @@
 'use client';
 
-import { Canvas, useLoader } from '@react-three/fiber';
+import { Canvas } from '@react-three/fiber';
 import { OrbitControls } from '@react-three/drei';
 import Beacon from '@/app/components/Beacon';
 
